@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This task is designed to assess the practical Python skills that you have learnt during your training. You are to use the knowledge you have acquired from the course and demonstrate this. You are allowed to reference your materials and troubleshoot using Google, but PLEASE do not copy and paste from Google! If I find any solutions copied and pasted from Google in your code, I will deduct a mark from your score.
+This task is designed to assess the practical Python skills that you have learned during your training. You are to use the knowledge you have acquired from the course and demonstrate this. You are allowed to reference your materials and troubleshoot using Google, but PLEASE do not copy and paste from Google! If I find any solutions copied and pasted from Google in your code, I will deduct a mark from your score.
 
 Please download this file to the folder where you will be saving your python file: ​text file The file is tab-separated.
 
